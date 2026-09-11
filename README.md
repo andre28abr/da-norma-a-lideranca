@@ -24,6 +24,8 @@ organização.
 
 **Onde comprar o livro:** [link da loja em breve]
 
+**Link deste repositório, para citar e compartilhar:** `github.com/andre28abr/da-norma-a-lideranca`
+
 Os PDFs são a versão formatada para imprimir e preencher. Os instrumentos que funcionam como
 planilha de verdade (escalas, critério de aceitação, SoA, painel de KRI, temporalidade) existem
 também em **XLSX editável**, para viver no dia a dia da operação.
@@ -75,7 +77,7 @@ e Encarregado de Dados (DPO) em organização do setor de saúde suplementar. *D
 o método que ele usou para transformar exigências sobrepostas (LGPD, regulador setorial e clientes)
 em um único programa de governança.
 
-→ [LinkedIn](https://linkedin.com/in/adreaugusto-azariasdesouza) · [GitHub Profile](https://github.com/andre28abr)
+→ [LinkedIn](https://linkedin.com/in/andreaugusto-azariasdesouza) · [GitHub Profile](https://github.com/andre28abr)
 
 ## ⚖️ Licença e uso
 
