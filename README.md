@@ -43,15 +43,24 @@ também em **XLSX editável**, para viver no dia a dia da operação.
 | 7 | Cláusulas de contrato de operador | PDF | Capítulo 28 |
 | 8 | Painel de KRI com limiares | PDF + XLSX | Capítulo 19 |
 | 9 | Página de reporte ao board | PDF | Capítulos 19 e 23 |
-| 10 | Matriz de empilhamento | PDF | Capítulos 4 e 32 |
+| 10 | Matriz de empilhamento | PDF + XLSX | Capítulos 4 e 32 |
 | 11 | Traduzindo a sua trajetória | PDF | Prefácio e apêndice A Entrevista |
 | 12 | Tabela de temporalidade de dados | PDF + XLSX | Capítulo 34 |
 | 13 | Registro de discordância técnica | PDF | Capítulos 43 e 49 |
 | 14 | Declaração de estado encontrado | PDF | Capítulo 47 |
 | 15 | Pedido de informação de M&A, por frente | PDF | Capítulo 46 |
+| 16 | Correspondência ISO/IEC 27701 e LGPD | PDF | Capítulo 13 |
+| 17 | Checklist da pilha: as cinco perguntas | PDF | Capítulo 32 |
 
-Todos os dezessete instrumentos do apêndice do livro estarão disponíveis aqui; os demais estão em
-preparação e chegam junto com o lançamento da 1ª edição.
+## 🎯 Materiais de partida
+
+Três peças para quem ainda não leu o livro (ou quer treinar antes de abri-lo):
+
+| Material | O que é | Onde o livro aprofunda |
+|---|---|---|
+| Simulado de Entrevista de GRC | Dez perguntas reais, sem as respostas | Apêndice A Entrevista |
+| A Tabela dos Três Relógios | Quem notifica quem num incidente, em qual prazo | Capítulo 29 |
+| Plano de 90 Dias | Os três atos de trinta dias da cadeira nova | Apêndice A Entrevista |
 
 ## 🧭 Como usar
 
@@ -83,6 +92,7 @@ em um único programa de governança.
 
 Uso **livre dentro da sua organização**: imprima, preencha, adapte os campos e os números à sua
 realidade. **Venda e redistribuição são proibidas**, incluindo repostar os arquivos em outros
-repositórios, sites ou pacotes de templates.
+repositórios, sites ou pacotes de templates. O texto completo está no arquivo
+[LICENSE](LICENSE).
 
 Copyright © 2026 André Augusto Azarias de Souza. Todos os direitos reservados.
