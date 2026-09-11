@@ -27,7 +27,7 @@ organização.
 **Link deste repositório, para citar e compartilhar:** `github.com/andre28abr/da-norma-a-lideranca`
 
 Os PDFs são a versão formatada para imprimir e preencher. Os instrumentos que funcionam como
-planilha de verdade (escalas, critério de aceitação, SoA, painel de KRI, temporalidade) existem
+planilha de verdade (matriz, escalas, critério de aceitação, SoA, painel de KRI, temporalidade) existem
 também em **XLSX editável**, para viver no dia a dia da operação.
 
 ## 📂 Os instrumentos
