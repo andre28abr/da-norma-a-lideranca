@@ -22,7 +22,9 @@ que cada campo significa, quem preenche, o erro mais comum de cada instrumento e
 eles sustentam. Sem essa leitura, são tabelas soltas; com ela, viram o programa de governança da sua
 organização.
 
-**Onde comprar o livro:** [link da loja em breve]
+**Onde comprar o livro:**
+[e-book na Amazon (Kindle)](https://www.amazon.com.br/dp/B0HJJSY58V) ·
+[livro impresso na UiClap](https://loja.uiclap.com/titulo/ua202304)
 
 **Link deste repositório, para citar e compartilhar:** `github.com/andre28abr/da-norma-a-lideranca`
 
