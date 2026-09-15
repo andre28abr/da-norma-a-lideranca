@@ -81,12 +81,20 @@ do ciclo de edições.
 **André Augusto Azarias de Souza** · DPO / Encarregado de Dados · Compliance & GRC · Privacy
 Engineering
 
-Mais de 18 anos de experiência em gestão administrativa, compliance, governança da informação e
-proteção de dados pessoais, com formação dupla em **Direito (Anhanguera)** e **Análise e
-Desenvolvimento de Sistemas (Mackenzie)**. Atuou por quase duas décadas como Gerente Administrativo
-e Encarregado de Dados (DPO) em organização do setor de saúde suplementar. *Da Norma à Liderança* é
-o método que ele usou para transformar exigências sobrepostas (LGPD, regulador setorial e clientes)
-em um único programa de governança.
+Gestor com **18 anos de atuação como Gerente Administrativo e Encarregado de Dados (DPO)** em
+organização do setor de saúde suplementar, ambiente regulado pela ANS e pela LGPD. Participou de
+decisões de diretoria, conduziu a relação com hospitais e operadoras, liderou a modernização dos
+sistemas administrativos e de segurança da informação e coordenou o programa de adequação à LGPD da
+organização, com dados sensíveis de saúde sob o Art. 11. Formado em **Direito** e em **Análise e
+Desenvolvimento de Sistemas**, com pós-graduações em segurança digital, governança de dados,
+privacidade, direito digital e liderança ágil.
+
+*Da Norma à Liderança* é o método que ele usou para transformar exigências sobrepostas (LGPD,
+regulador setorial e clientes) em um único programa de governança. Desde 2025 conduz projetos
+open-source de segurança e privacidade, entre eles a
+[Plataforma LGPD](https://github.com/andre28abr/lgpd-platform) e o
+[SentinelBR](https://github.com/andre28abr/SentinelBR-platform), e desenvolve automações de
+processos com n8n.
 
 → [LinkedIn](https://linkedin.com/in/andreaugusto-azariasdesouza) · [GitHub Profile](https://github.com/andre28abr)
 
